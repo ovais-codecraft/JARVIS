@@ -21,7 +21,7 @@ Installation
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/oavis-codecraft/JARVIS.git
+git clone https://github.com/ovais-codecraft/JARVIS.git
 cd JARVIS
 2.	Install the required libraries:
 bash
